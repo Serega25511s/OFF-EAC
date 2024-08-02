@@ -1,4 +1,3 @@
-﻿// dllmain.cpp : Определяет точку входа для приложения DLL.
 #include <windows.h>
 #include <string>
 #include <curl/curl.h>
